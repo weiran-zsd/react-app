@@ -1,4 +1,6 @@
-# vite-based Create React App
+# vite-based Create React App <img src="https://github.com/js-starter/react-app/workflows/CI/badge.svg" alt="CI" /><a href="https://codecov.io/gh/js-starter/react-app"> <img alt="Codecov" src="https://img.shields.io/codecov/c/github/js-starter/react-app.svg?style=flat-square"></a>
+
+
 
 ## 1. get started
 ### 1.1 使用 github template(推荐)
