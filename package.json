@@ -45,7 +45,7 @@
     "@vitejs/plugin-react": "latest",
     "esbuild-jest": "^0.5.0",
     "eslint-config-react-app": "^7.0.0",
-    "jest": "^27.4.5",
+    "jest": "^27.4.6",
     "jest-transform-stub": "^2.0.0",
     "ts-jest": "^27.1.2",
     "typescript": "latest",
