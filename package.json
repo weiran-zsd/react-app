@@ -41,7 +41,7 @@
     "@testing-library/user-event": "^13.5.0",
     "@tsconfig/vite-react": "^1.0.0",
     "@types/react": "^17.0.38",
-    "@types/react-dom": "^17.0.11",
+    "@types/react-dom": "^18.0.6",
     "@vitejs/plugin-react": "latest",
     "c8": "^7.11.3",
     "eslint-config-react-app": "^7.0.1",
