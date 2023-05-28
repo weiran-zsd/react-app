@@ -45,7 +45,7 @@
     "@vitejs/plugin-react": "latest",
     "c8": "^7.11.3",
     "eslint-config-react-app": "^7.0.1",
-    "jsdom": "^20.0.0",
+    "jsdom": "^22.1.0",
     "typescript": "latest",
     "vite": "latest",
     "vitest": "^0.14.1"
