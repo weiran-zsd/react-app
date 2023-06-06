@@ -36,18 +36,18 @@
     ]
   },
   "devDependencies": {
-    "@testing-library/jest-dom": "^5.16.4",
-    "@testing-library/react": "^12.1.2",
-    "@testing-library/user-event": "^14.4.1",
-    "@tsconfig/vite-react": "^1.0.0",
-    "@types/react": "^17.0.38",
-    "@types/react-dom": "^18.0.6",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^12.1.5",
+    "@testing-library/user-event": "^14.4.3",
+    "@tsconfig/vite-react": "^1.0.1",
+    "@types/react": "^17.0.60",
+    "@types/react-dom": "^18.2.4",
     "@vitejs/plugin-react": "latest",
-    "c8": "^7.11.3",
+    "c8": "^7.14.0",
     "eslint-config-react-app": "^7.0.1",
-    "jsdom": "^20.0.0",
+    "jsdom": "^20.0.3",
     "typescript": "latest",
     "vite": "latest",
-    "vitest": "^0.14.1"
+    "vitest": "^0.32.0"
   }
 }
